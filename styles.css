@@ -1,1 +1,20 @@
 /* your code */
+table{
+  font-family: "Arial", sans-serif;
+  width:650px;
+  border-collapse: collapse;
+  border-radius:10px;
+  overflow:hidden;
+}
+th{
+	background-color:#31598a;
+	color:white;
+	text-align:left;
+	padding:5px;
+}
+.highlight{
+	background-color:#dddddd;
+}
+td{
+	padding:5px;
+}
